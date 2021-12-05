@@ -14,11 +14,11 @@
  * Examples
  * (To see them, uncomment and save)
  */
-img
-{
-  clear: both; // poista kellunta, voit testata, mitä tapahtuu, jos jätät tämän pois
-  float: left;  // kellu vasemmalle
-}
+
+
+
+ #eka{ float: left; } #toka { clear: both; float: right; }
+
 // style the background color of the tree view
 .tree-view {
   // background-color: whitesmoke;
