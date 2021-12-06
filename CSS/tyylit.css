@@ -16,8 +16,24 @@
  */
 
 
-img { margin: 10px; }
- #eka{ float: left; } #toka { clear: both; float: right; }
+/*img {margin: 10px; }
+ #eka{ float: left; } #toka { clear: both; float: right; }*/
+ table {
+    border: 1px solid black;
+ }
+
+ table {
+   border-collapse: collapse;
+   width: 100%;
+ }
+th {
+   text-align: left;
+ }
+
+  td {
+   text-align: left ;
+ }
+
 
 // style the background color of the tree view
 .tree-view {
