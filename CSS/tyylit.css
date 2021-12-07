@@ -18,21 +18,27 @@
 
 /*img {margin: 10px; }
  #eka{ float: left; } #toka { clear: both; float: right; }*/
- table {
+ table, td, th {
     border: 1px solid black;
  }
 
  table {
    border-collapse: collapse;
-   width: 100%;
+   width: 60%;
  }
 th {
    text-align: left;
+   color: white;
+   background-color: #f00000;
  }
 
   td {
    text-align: left ;
- }
+  
+  }
+  tr:nth-child(even) {background-color: #fff000;}
+  tr:nth-child(odd) {background-color: #fffff0;}
+
 
 
 // style the background color of the tree view
