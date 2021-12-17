@@ -1,0 +1,51 @@
+table {
+/*  border:1px solid black;*/
+  border-collapse: collapse;
+  width: 450px;
+  text-align: right;
+
+}
+table td {
+  border:1px solid;
+border-collapse: collapse;
+width: 150px;
+  text-align: right;
+
+}
+#Määrä{
+  font-weight: bold;
+  background-color: #b4b4b4;
+}
+#Hinta{
+  font-weight: bold;
+  background-color: #b4b4b4;
+}
+#Kuvaus{
+  text-align: left;
+}
+#Omena{
+  text-align: left;
+}
+#Banaani{
+  text-align: left;
+}
+#Appelsiini{
+  text-align: left;
+}
+#Mandariini {
+  text-align: left;
+}
+#Yhteensä{
+  text-align: right;
+}
+table thead th {
+  background-color:#b4b4b4;
+}
+table tbody tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+table tfoot { border:1px solid;
+  /*border-collapse: collapse;*/
+  background-color: #b4b4b4;
+  font-weight: bold;
+}
