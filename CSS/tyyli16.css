@@ -1,0 +1,68 @@
+h1{
+  color: green;
+  font-family: Serif;
+}
+h3{
+  font-effect: shadow-multiple;
+}
+i9 {
+  font-size: 10px;
+  color: yellow;
+}
+i {
+  font-size: 15px;
+  color:red;
+}
+i1 { font-size: 20px;
+  color:blue;
+  }
+  i2 {font-size: 21px;
+    color:green;
+    }
+    i3{font-size: 35px;
+      color:darkgreen;}
+      i4{font-size: 35px;
+        color:orange;}
+        i5 { font-size: 30px;
+          color:brown;
+          }
+          i6 {font-size: 25px;
+            color:skyblue;
+            }
+            i7{font-size: 18px;
+              color:violet;}
+              i8{font-size: 10px;
+                }
+    p {
+      font-family: serif;
+    }
+#Janne{
+  font-family: "Sofia" , sans-serif;
+}
+#What{
+  font-family: "Arial" , sans-serif;
+}
+#Lorem{
+  font-family: "Papyrus" , fantasy;
+}
+#Why{
+  font-family: "Arial" , sans-serif;
+}
+#Itis{
+  font-family: "Courier New" , monospace;
+}
+#Where{
+  font-family: "Arial" , sans-serif;
+}
+#Contrary{
+  font-family: "Lucida Handwriting", Cursive;
+}
+#The{
+  font-family: "Copperplate", Fantasy;
+}
+#Wherecan{
+  font-family: "Arial" , sans-serif;
+}
+#There{
+  font-family: "Georgia" , serif;
+}
